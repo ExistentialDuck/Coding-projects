@@ -1,0 +1,18 @@
+This is a sample `Markdown` file. *Markdown* is a
+simple notation for translating **plaintext** documents
+into **HTML**. Instead of using exotic [HTML](http://www.w3.org)
+tags like `<code>`, Markdown lets you use simple text symbols to
+indicate how to display different kinds of text. For example,
+
+here is some code to display a "smiley-face" image:
+
+![Happy face](/mysite/images/smiley.jpg "My smiley face image")
+
+If you run this text through your *MarkdownTranslator* program,
+you should receive a neatly-formatted HTML version of this *file*.
+
++ This is a simple unordered list
++ It contains a total of three list items
++ and should be surrounded by the correct UL tags in the HTML version
+
+This is the *last* line in the test file.

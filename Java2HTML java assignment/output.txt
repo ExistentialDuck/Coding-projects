@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Results of Markdown Translation</title>
+</head>
+<body>
+﻿This is a sample <code>Markdown</code> file. <em>Markdown</em> is a
+simple notation for translating <strong>plaintext</strong> documents
+into <strong>HTML</strong>. Instead of using exotic <a href="http://www.w3.org">HTML</a>
+tags like <code><code></code>, Markdown lets you use simple text symbols to
+indicate how to display different kinds of text. For example,
+<p>
+here is some code to display a "smiley-face" image:
+<p>
+<img src="/mysite/images/smiley.jpg" alt="Happy face" title="My smiley face image">
+<p>
+If you run this text through your <em>MarkdownTranslator</em> program,
+you should receive a neatly-formatted HTML version of this <em>file</em>.
+<p>
+<ul>
+<li>This is a simple unordered list</li>
+<li>It contains a total of three list items</li>
+<li>and should be surrounded by the correct UL tags in the HTML version</li>
+<p>
+This is the <em>last</em> line in the test file.
+</body>
+</html>
