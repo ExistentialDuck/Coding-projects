@@ -1,2 +1,2 @@
 # Coding-projects
-List of previous projects
+List of most complex coding projects done in each language.
